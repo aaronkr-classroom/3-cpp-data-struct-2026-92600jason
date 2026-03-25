@@ -36,4 +36,4 @@ int main() {
 	cout << "Minimum length: " << min_len << endl;
 
 	return 0;
-}
+}	

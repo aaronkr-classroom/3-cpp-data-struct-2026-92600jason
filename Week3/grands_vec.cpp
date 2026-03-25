@@ -37,7 +37,7 @@ int main(void) {
 		if (option == 1) {
 			cout << "Name: ";
 			cin >> name;
-		}
+	
 		else if (option == 2) {
 			cout << "First Name + Last name: ";
 			cin >> fname, lname;
